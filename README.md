@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 
 # ChatBotA: News Research Tool 
 
 ChatBotA is a user-friendly news research tool designed for effortless information retrieval. Users can input article URLs and ask questions to receive relevant insights from the stock market and financial domain.
 
-![](ChatBotA.jpg)
+![image](https://github.com/user-attachments/assets/be834aa0-aa90-4a39-b5a8-f2fc17c92b40)
+
 
 ## Features
 
